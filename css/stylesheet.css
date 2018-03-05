@@ -84,8 +84,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #sc:hover {
@@ -98,8 +98,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #tw:hover {
@@ -112,8 +112,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #gh:hover {
@@ -126,8 +126,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #youtube:hover {
@@ -140,8 +140,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #steam:hover {
@@ -154,8 +154,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #discord:hover {
@@ -168,8 +168,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 }
 
 #osu:hover {
@@ -182,8 +182,8 @@ h2 {
 	width: 15vmin;
 	transform: rotateZ(0deg);
 	transition: transform 1s;
-	margin-left: 5vmin;
-	margin-right: 5vmin;
+	margin-left: 2vmin;
+	margin-right: 2vmin;
 	border-radius: 100%;
 }
 
