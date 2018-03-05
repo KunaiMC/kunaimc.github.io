@@ -72,6 +72,13 @@ h1 {
 	color: #000;
 }
 
+h2 {
+	margin-top: 3vh;
+	font-family: "Fira Sans", "Fira", sans-serif;
+	font-size: 5vh;
+	color: #000;
+}
+
 #sc {
 	height: 15vmin;
 	width: 15vmin;
@@ -114,6 +121,20 @@ h1 {
 	cursor: pointer;
 }
 
+#youtube {
+	height: 15vmin;
+	width: 15vmin;
+	transform: rotateZ(0deg);
+	transition: transform 1s;
+	margin-left: 5vmin;
+	margin-right: 5vmin;
+}
+
+#youtube:hover {
+	transform: rotateZ(360deg);
+	cursor: pointer;
+}
+
 #steam {
 	height: 15vmin;
 	width: 15vmin;
@@ -124,6 +145,49 @@ h1 {
 }
 
 #steam:hover {
+	transform: rotateZ(360deg);
+	cursor: pointer;
+}
+
+#discord {
+	height: 15vmin;
+	width: 15vmin;
+	transform: rotateZ(0deg);
+	transition: transform 1s;
+	margin-left: 5vmin;
+	margin-right: 5vmin;
+}
+
+#discord:hover {
+	transform: rotateZ(360deg);
+	cursor: pointer;
+}
+
+#osu {
+	height: 15vmin;
+	width: 15vmin;
+	transform: rotateZ(0deg);
+	transition: transform 1s;
+	margin-left: 5vmin;
+	margin-right: 5vmin;
+}
+
+#osu:hover {
+	transform: rotateZ(360deg);
+	cursor: pointer;
+}
+
+#mc {
+	height: 15vmin;
+	width: 15vmin;
+	transform: rotateZ(0deg);
+	transition: transform 1s;
+	margin-left: 5vmin;
+	margin-right: 5vmin;
+	border-radius: 100%;
+}
+
+#mc:hover {
 	transform: rotateZ(360deg);
 	cursor: pointer;
 }
@@ -149,6 +213,10 @@ span {
 
 #ja {
 	animation: flipja 10s infinite;
+	margin-top: 10vh;
+	font-family: "Fira Sans", "Fira", sans-serif;
+	font-size: 2.5vh;
+	color: #000;
 }
 
 @keyframes flipen {
