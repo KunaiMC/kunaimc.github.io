@@ -200,6 +200,8 @@ h2 {
 	float: none;
 	margin-top: 3vh;
 	transform: translateY(33%);
+	-webkit-transform: translateY(33%);
+	-ms-transform: translateY(33%);
 }
 
 em {
